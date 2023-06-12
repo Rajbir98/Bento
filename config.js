@@ -61,7 +61,7 @@ const CONFIG = {
 			id: '2',
 			name: 'Spotify',
 			icon: 'headphones',
-			link: 'spotify:\\home',
+			link: 'spotify://collection/tracks',
 		},
 		{
 			id: '3',
