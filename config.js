@@ -12,7 +12,7 @@ const CONFIG = {
 
 	// General
 	name: 'Rajbir',
-	imageBackground: false,
+	imageBackground: false, // Grabs your current Desktop Wallpaper
 	openInNewTab: false,
 	twelveHourFormat: false,
 
@@ -53,15 +53,15 @@ const CONFIG = {
 	firstButtonsContainer: [
 		{
 			id: '1',
-			name: 'Spotify',
-			icon: 'headphones',
-			link: 'spotify:\\',
-		},
-		{
-			id: '2',
 			name: 'Github',
 			icon: 'github',
 			link: 'https://github.com/',
+		},
+		{
+			id: '2',
+			name: 'Spotify',
+			icon: 'headphones',
+			link: 'spotify:\\home',
 		},
 		{
 			id: '3',
@@ -77,15 +77,15 @@ const CONFIG = {
 		},
 		{
 			id: '5',
-			name: 'Mail',
-			icon: 'mail',
-			link: 'https://mail.protonmail.com/',
-		},
-		{
-			id: '6',
 			name: 'Youtube',
 			icon: 'youtube',
 			link: 'https://youtube.com/',
+		},
+		{
+			id: '6',
+			name: 'Twitter',
+			icon: 'twitter',
+			link: 'https://twitter.com/',
 		},
 	],
 
@@ -104,16 +104,16 @@ const CONFIG = {
 					link: 'spotify://playlist/2hI1zM4BqBu6LpbmlItsEE?si=c920c5ea6e77467d',
 				},
 				{
-					name: 'Anime',
+					name: 'Your Name',
 					link: 'spotify://playlist/2gzO301mUyciY3BE2tzZZx?si=ccacbef3639043b0',
 				},
 				{
-					name: 'Oldies',
-					link: 'spotify:///playlist/1wYXDQKAGaVx8kUifjJeoJ?si=c0f01381a9804127',
+					name: 'This is Aimer',
+					link: 'spotify://playlist/37i9dQZF1DZ06evO02uS96?si=04e37b00d7164a68',
 				},
 				{
-					name: 'Rock',
-					link: 'spotify://playlist/5AtP8mlCgQKeVTkpzHaj7j?si=82b0e79db2ca47fb',
+					name: 'Beat Drops',
+					link: 'spotify://playlist/5AtP8mlCgQKeVTkpzHaj7j?si=76f24932b9cb4717',
 				},
 			],
 		},
@@ -122,16 +122,16 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
-					name: 'Spotify',
-					link: 'spotify:\\',
+					name: 'Godot Docs',
+					link: 'https://docs.godotengine.org/en/4.0/',
 				},
 				{
-					name: 'Reddit',
-					link: 'https://www.reddit.com',
+					name: 'Github Desktop',
+					link: 'x-github-client:\\',
 				},
 				{
-					name: 'Books',
-					link: 'file:///D:/Data/Note%20Dump%20Area/Books',
+					name: 'Notion',
+					link: 'https://notion.so/',
 				},
 				{
 					name: 'Quora',
