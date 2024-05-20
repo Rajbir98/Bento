@@ -88,7 +88,44 @@ const CONFIG = {
 			link: 'https://pinterest.com/home/',
 		},
 	],
-
+	secondButtonsContainer: [
+		{
+			id: '6',
+			name: 'ChatGPT',
+			icon: 'brain-cog',
+			link: 'https://open.ai/chat',
+		},
+		{
+			id: '2',
+			name: 'Telegram',
+			icon: 'send',
+			link: 'https://telegram.com',
+		},
+		{
+			id: '1',
+			name: 'Notion',
+			icon: 'highlighter',
+			link: 'Notion:\\',
+		},
+		{
+			id: '5',
+			name: 'Reddit',
+			icon: 'bot-message-square',
+			link: 'https://reddit.com',
+		},
+		{
+			id: '3',
+			name: 'Whatsapp',
+			icon: 'message-circle-more',
+			link: 'https://web.whatsapp.com/',
+		},
+		{
+			id: '4',
+			name: 'Gmail',
+			icon: 'mail',
+			link: 'https://gmail.com/',
+		},
+	],
 	// ┬  ┬┌─┐┌┬┐┌─┐
 	// │  │└─┐ │ └─┐
 	// ┴─┘┴└─┘ ┴ └─┘
