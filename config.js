@@ -67,7 +67,7 @@ const CONFIG = {
 			id: '1',
 			name: 'Discord',
 			icon: 'bot',
-			link: 'discord:\\',
+			link: 'https://discord.com/app',
 		},
 		{
 			id: '5',
