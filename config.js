@@ -105,7 +105,7 @@ const CONFIG = {
 			id: '1',
 			name: 'Notion',
 			icon: 'highlighter',
-			link: 'Notion:\\',
+			link: 'https://www.notion.so/',
 		},
 		{
 			id: '5',
