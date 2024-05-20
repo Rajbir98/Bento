@@ -23,7 +23,7 @@ const CONFIG = {
 	greetingNight: 'Go to Sleep!',
 
 	// Layout
-	bentoLayout: 'bento', // 'bento', 'lists', 'buttons'
+	bentoLayout: 'buttons', // 'bento', 'lists', 'buttons'
 
 	// Weather
 	weatherKey: '78a74182d7964b1a99d10ff11c56a1af', // Write here your API Key
@@ -52,7 +52,7 @@ const CONFIG = {
 
 	firstButtonsContainer: [
 		{
-			id: '1',
+			id: '6',
 			name: 'Github',
 			icon: 'github',
 			link: 'https://github.com/',
@@ -60,32 +60,32 @@ const CONFIG = {
 		{
 			id: '2',
 			name: 'Spotify',
-			icon: 'headphones',
+			icon: 'music',
 			link: 'spotify://collection/tracks',
 		},
 		{
-			id: '3',
+			id: '1',
 			name: 'Discord',
 			icon: 'bot',
 			link: 'discord:\\',
 		},
 		{
-			id: '4',
-			name: 'Reddit',
-			icon: 'glasses',
-			link: 'https://reddit.com',
+			id: '5',
+			name: 'Instagram',
+			icon: 'instagram',
+			link: 'https://instagram.com',
 		},
 		{
-			id: '5',
+			id: '3',
 			name: 'Youtube',
 			icon: 'youtube',
 			link: 'https://youtube.com/',
 		},
 		{
-			id: '6',
-			name: 'Twitter',
-			icon: 'twitter',
-			link: 'https://twitter.com/',
+			id: '4',
+			name: 'Pinterest',
+			icon: 'pin',
+			link: 'https://pinterest.com/home/',
 		},
 	],
 
