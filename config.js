@@ -93,7 +93,7 @@ const CONFIG = {
 			id: '6',
 			name: 'ChatGPT',
 			icon: 'brain-cog',
-			link: 'https://open.ai/chat',
+			link: 'https://chatgpt.com',
 		},
 		{
 			id: '2',
